@@ -1,9 +1,7 @@
 import java.util.Scanner;
 
 public class Hinhtron {
-    public static void main(String[] arg) {
-    }
-
+  
     public float r;
     public float Chuvi;
     public float Dientich;
