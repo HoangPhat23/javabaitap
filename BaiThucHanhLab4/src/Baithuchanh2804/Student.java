@@ -1,3 +1,4 @@
+package Baithuchanh2804;
 
 public class Student {
 	char[] id = new char[10];
